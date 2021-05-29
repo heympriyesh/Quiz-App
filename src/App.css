@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container{
+  border: 1px solid black;
+  border-radius: 25px;
+}
+.con2{
+  margin: 0 auto;
+    border: 1px solid black;
+    outline: none;
+    margin-bottom: 20px;
+}
+.w-button{
+  width: 100px;
+    margin: 6px;
+}
